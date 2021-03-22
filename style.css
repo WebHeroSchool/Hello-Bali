@@ -321,7 +321,7 @@ a {
     .gallery__pics_3 {
       background-size: cover;
       width: 7.5%;
-      height: 31vh;
+      height: 35vh;
     }
   }
   @media (max-width:767px) {
